@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1",
+    "position": "Software Developer",
+    "company": "Tech Solutions Inc",
+    "description": "We are looking for a skilled Software Developer to join our team. You will be responsible for developing and maintaining web applications using modern technologies.",
+    "requirements": "Bachelor's degree in Computer Science or related field. 3+ years of experience with JavaScript, TypeScript, and Angular. Experience with .NET Core is a plus.",
+    "status": "Pending",
+    "appliedDate": "2025-01-15T10:30:00Z",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "(555) 123-4567",
+    "address": "123 Main St, Anytown, USA 12345",
+    "coverLetter": "Dear Hiring Manager, I am writing to express my strong interest in the Software Developer position at Tech Solutions Inc. With over 3 years of experience in web development and a passion for creating innovative solutions, I believe I would be a valuable addition to your team.",
+    "resumeUrl": "https://example.com/resume/john-doe.pdf",
+    "notes": null
+  },
+  {
+    "id": "2",
+    "position": "Frontend Developer",
+    "company": "Digital Agency",
+    "description": "Join our creative team as a Frontend Developer. You'll work on exciting projects for various clients, creating beautiful and functional user interfaces.",
+    "requirements": "2+ years of experience with HTML, CSS, JavaScript, and React or Angular. Experience with responsive design and modern CSS frameworks.",
+    "status": "Interview",
+    "appliedDate": "2025-01-10T14:15:00Z",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@example.com",
+    "phone": "(555) 987-6543",
+    "address": "456 Oak Ave, Another City, USA 67890",
+    "coverLetter": "I am excited to apply for the Frontend Developer position at Digital Agency. My experience in creating responsive, user-friendly interfaces aligns perfectly with your team's needs.",
+    "resumeUrl": null,
+    "notes": "Scheduled for interview on January 20th"
+  }
+]

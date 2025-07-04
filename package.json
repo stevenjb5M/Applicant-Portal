@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "frontend": "cd frontend && npm start",
+    "backend": "cd backend && dotnet run",
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "install:frontend": "cd frontend && npm install",
+    "install:backend": "cd backend && dotnet restore",
+    "install:all": "npm run install:frontend && npm run install:backend"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
