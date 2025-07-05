@@ -4,7 +4,7 @@ export interface Application {
   company: string;
   description: string;
   requirements: string;
-  status: 'pending' | 'approved' | 'rejected' | 'interview';
+  status: 'pending' | 'approved' | 'rejected' | 'interview' | 'hired';
   appliedDate: Date;
   firstName: string;
   lastName: string;
